@@ -1,0 +1,257 @@
+fileFormatVersion: 2
+guid: bcdf77fa3c4e8f54189962cc0e4d186f
+timeCreated: 1431437175
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: "kap\u0131 kol kasa 1_1"
+    21300002: "kap\u0131 kol kasa 1_2"
+    21300004: "kap\u0131 kol kasa 1_3"
+    21300006: "kap\u0131 kol kasa 1_4"
+    21300008: "kap\u0131 kol kasa 1_5"
+    21300010: "kap\u0131 kol kasa 1_8"
+    21300012: "kap\u0131 kol kasa 1_9"
+    21300014: "kap\u0131 kol kasa 1_10"
+    21300016: "kap\u0131 kol kasa 1_11"
+    21300018: "kap\u0131 kol kasa 1_12"
+    21300020: "kap\u0131 kol kasa 1_19"
+    21300022: "kap\u0131 kol kasa 1_20"
+    21300024: "kap\u0131 kol kasa 1_21"
+    21300026: "kap\u0131 kol kasa 1_22"
+    21300028: "kap\u0131 kol kasa 1_23"
+    21300030: "kap\u0131 kol kasa 1_24"
+    21300032: "kap\u0131 kol kasa 1_25"
+    21300034: "kap\u0131 kol kasa 1_26"
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Standalone
+    maxTextureSize: 4096
+    textureFormat: -3
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: "kap\u0131 kol kasa 1_1"
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 701
+        width: 96
+        height: 138
+      alignment: 9
+      pivot: {x: .524174213, y: .876698792}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "kap\u0131 kol kasa 1_2"
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 701
+        width: 96
+        height: 138
+      alignment: 9
+      pivot: {x: .527503312, y: .876676679}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "kap\u0131 kol kasa 1_3"
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 708
+        width: 96
+        height: 138
+      alignment: 9
+      pivot: {x: .53609848, y: .869501948}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "kap\u0131 kol kasa 1_4"
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 708
+        width: 96
+        height: 138
+      alignment: 9
+      pivot: {x: .527503312, y: .874285281}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "kap\u0131 kol kasa 1_5"
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 708
+        width: 96
+        height: 138
+      alignment: 9
+      pivot: {x: .537817001, y: .877872646}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "kap\u0131 kol kasa 1_8"
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 471
+        width: 96
+        height: 138
+      alignment: 9
+      pivot: {x: .524374485, y: .876602829}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "kap\u0131 kol kasa 1_9"
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 471
+        width: 95
+        height: 138
+      alignment: 9
+      pivot: {x: .53111285, y: .876602829}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "kap\u0131 kol kasa 1_10"
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 478
+        width: 96
+        height: 138
+      alignment: 9
+      pivot: {x: .538192093, y: .866266668}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "kap\u0131 kol kasa 1_11"
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 478
+        width: 96
+        height: 138
+      alignment: 9
+      pivot: {x: .524552047, y: .877653241}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "kap\u0131 kol kasa 1_12"
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 478
+        width: 96
+        height: 138
+      alignment: 9
+      pivot: {x: .532735825, y: .877653241}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "kap\u0131 kol kasa 1_19"
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 308
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: .711666882, y: .0816665664}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "kap\u0131 kol kasa 1_20"
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 313
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: .358333319, y: .079999797}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "kap\u0131 kol kasa 1_21"
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 313
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: .278333545, y: .079999797}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "kap\u0131 kol kasa 1_22"
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 313
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: .258333325, y: .0783330277}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "kap\u0131 kol kasa 1_23"
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 143
+        width: 64
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "kap\u0131 kol kasa 1_24"
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 143
+        width: 64
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "kap\u0131 kol kasa 1_25"
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 143
+        width: 63
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "kap\u0131 kol kasa 1_26"
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 143
+        width: 63
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

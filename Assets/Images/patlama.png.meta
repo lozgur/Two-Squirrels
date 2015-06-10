@@ -1,0 +1,136 @@
+fileFormatVersion: 2
+guid: d446cd2eaa4d90149a9ccbd823fd2d0d
+timeCreated: 1432817624
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: patlama_0
+    21300002: patlama_1
+    21300004: patlama_2
+    21300006: patlama_3
+    21300008: patlama_4
+    21300010: patlama_5
+    21300012: patlama_6
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 2
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -3
+    compressionQuality: 50
+  spriteSheet:
+    sprites:
+    - name: patlama_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 456
+        width: 202
+        height: 169
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: patlama_1
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 459
+        width: 205
+        height: 165
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: patlama_2
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 461
+        width: 208
+        height: 159
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: patlama_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 205
+        width: 220
+        height: 197
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: patlama_4
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 185
+        width: 258
+        height: 236
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: patlama_5
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 212
+        width: 253
+        height: 211
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 1, y: 0, z: 0, w: 0}
+    - name: patlama_6
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 0
+        width: 241
+        height: 156
+      alignment: 7
+      pivot: {x: .5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
